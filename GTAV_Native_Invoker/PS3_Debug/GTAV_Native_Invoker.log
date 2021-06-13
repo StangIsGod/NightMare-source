@@ -1,0 +1,157 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(299,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  prx.cpp
+SNCCL : warning 1641: PreCompiled Header definition mismatch: PCH file uses PCH header file "stdafx.h", current file uses header file <cellstatus.h>
+  
+SNCCL : warning 632: the initial sequence of preprocessing directives is not compatible with those of precompiled header file "PS3_Debug\gta5HDz.pch"
+  
+C:\Users\user\Desktop\SPRX\SOURCES\Dialog\GTAV_Native_Invoker\nativeCaller.h(19): warning 942: missing return statement at end of non-void function "GetPlayerIndex_Stub"
+  
+C:\Users\user\Desktop\SPRX\SOURCES\Dialog\GTAV_Native_Invoker\Functions.h(215,3): warning 175: expression has no effect
+  
+C:\Users\user\Desktop\SPRX\SOURCES\Dialog\GTAV_Native_Invoker\Functions.h(220,24): warning 68: integer conversion resulted in a change of sign
+  
+C:\Users\user\Desktop\SPRX\SOURCES\Dialog\GTAV_Native_Invoker\Functions.h(220,31): warning 68: integer conversion resulted in a change of sign
+  
+C:\Users\user\Desktop\SPRX\SOURCES\Dialog\GTAV_Native_Invoker\Functions.h(227,2): warning 176: subscript out of range
+  
+C:\Users\user\Desktop\SPRX\SOURCES\Dialog\GTAV_Native_Invoker\Functions.h(228,2): warning 176: subscript out of range
+  
+C:\Users\user\Desktop\SPRX\SOURCES\Dialog\GTAV_Native_Invoker\Functions.h(229,2): warning 176: subscript out of range
+  
+C:\Users\user\Desktop\SPRX\SOURCES\Dialog\GTAV_Native_Invoker\Functions.h(474,9): warning 178: variable "buf2" was declared but never referenced
+  
+C:\Users\user\Desktop\SPRX\SOURCES\Dialog\GTAV_Native_Invoker\Functions.h(513): warning 942: missing return statement at end of non-void function "mySin"
+  
+C:\Users\user\Desktop\SPRX\SOURCES\Dialog\GTAV_Native_Invoker\Functions.h(531,90): warning 1772: argument of type "float" is implicitly converted to parameter (2 of GET_OFFSET_FROM_ENTITY_IN_WORLD_COORDS) of type "int"
+  
+C:\Users\user\Desktop\SPRX\SOURCES\Dialog\GTAV_Native_Invoker\Functions.h(531,98): warning 1772: argument of type "float" is implicitly converted to parameter (3 of GET_OFFSET_FROM_ENTITY_IN_WORLD_COORDS) of type "int"
+  
+C:\Users\user\Desktop\SPRX\SOURCES\Dialog\GTAV_Native_Invoker\Functions.h(531,106): warning 1772: argument of type "float" is implicitly converted to parameter (4 of GET_OFFSET_FROM_ENTITY_IN_WORLD_COORDS) of type "int"
+  
+C:\Users\user\Desktop\SPRX\SOURCES\Dialog\GTAV_Native_Invoker\Functions.h(530,7): warning 178: variable "Set" was declared but never referenced
+  
+C:\Users\user\Desktop\SPRX\SOURCES\Dialog\GTAV_Native_Invoker\Functions.h(552,99): warning 1772: argument of type "float" is implicitly converted to parameter (7 of SET_ENTITY_COORDS) of type "BOOL"
+  
+C:\Users\user\Desktop\SPRX\SOURCES\Dialog\GTAV_Native_Invoker\Functions.h(626): warning 942: missing return statement at end of non-void function "Create_Vehicle"
+  
+C:\Users\user\Desktop\SPRX\SOURCES\Dialog\GTAV_Native_Invoker\Functions.h(639,105): warning 1772: argument of type "double" is implicitly converted to parameter (2 of GET_OFFSET_FROM_ENTITY_IN_WORLD_COORDS) of type "int"
+  
+C:\Users\user\Desktop\SPRX\SOURCES\Dialog\GTAV_Native_Invoker\Functions.h(639,111): warning 1772: argument of type "double" is implicitly converted to parameter (3 of GET_OFFSET_FROM_ENTITY_IN_WORLD_COORDS) of type "int"
+  
+C:\Users\user\Desktop\SPRX\SOURCES\Dialog\GTAV_Native_Invoker\Functions.h(639,117): warning 1772: argument of type "double" is implicitly converted to parameter (4 of GET_OFFSET_FROM_ENTITY_IN_WORLD_COORDS) of type "int"
+  
+C:\Users\user\Desktop\SPRX\SOURCES\Dialog\GTAV_Native_Invoker\Functions.h(669,18): warning 68: integer conversion resulted in a change of sign
+  
+C:\Users\user\Desktop\SPRX\SOURCES\Dialog\GTAV_Native_Invoker\Functions.h(670,24): warning 68: integer conversion resulted in a change of sign
+  
+C:\Users\user\Desktop\SPRX\SOURCES\Dialog\GTAV_Native_Invoker\Functions.h(671,19): warning 68: integer conversion resulted in a change of sign
+  
+C:\Users\user\Desktop\SPRX\SOURCES\Dialog\GTAV_Native_Invoker\Functions.h(671,25): warning 68: integer conversion resulted in a change of sign
+  
+C:\Users\user\Desktop\SPRX\SOURCES\Dialog\GTAV_Native_Invoker\Functions.h(672,18): warning 68: integer conversion resulted in a change of sign
+  
+C:\Users\user\Desktop\SPRX\SOURCES\Dialog\GTAV_Native_Invoker\Functions.h(980,10): warning 178: variable "Pos" was declared but never referenced
+  
+C:\Users\user\Desktop\SPRX\SOURCES\Dialog\GTAV_Native_Invoker\Functions.h(1117,6): warning 188: use of constant "=" where "==" may have been intended
+  
+C:\Users\user\Desktop\SPRX\SOURCES\Dialog\GTAV_Native_Invoker\Functions.h(1149,23): warning 1772: argument of type "float" is implicitly converted to parameter (1 of CLEAR_AREA) of type "Any"
+  
+C:\Users\user\Desktop\SPRX\SOURCES\Dialog\GTAV_Native_Invoker\Functions.h(1149,32): warning 1772: argument of type "float" is implicitly converted to parameter (2 of CLEAR_AREA) of type "Any"
+  
+C:\Users\user\Desktop\SPRX\SOURCES\Dialog\GTAV_Native_Invoker\Functions.h(1149,41): warning 1772: argument of type "float" is implicitly converted to parameter (3 of CLEAR_AREA) of type "Any"
+  
+C:\Users\user\Desktop\SPRX\SOURCES\Dialog\GTAV_Native_Invoker\Functions.h(1150,31): warning 1772: argument of type "float" is implicitly converted to parameter (1 of CLEAR_AREA_OF_COPS) of type "Any"
+  
+C:\Users\user\Desktop\SPRX\SOURCES\Dialog\GTAV_Native_Invoker\Functions.h(1150,40): warning 1772: argument of type "float" is implicitly converted to parameter (2 of CLEAR_AREA_OF_COPS) of type "Any"
+  
+C:\Users\user\Desktop\SPRX\SOURCES\Dialog\GTAV_Native_Invoker\Functions.h(1150,49): warning 1772: argument of type "float" is implicitly converted to parameter (3 of CLEAR_AREA_OF_COPS) of type "Any"
+  
+C:\Users\user\Desktop\SPRX\SOURCES\Dialog\GTAV_Native_Invoker\Functions.h(1151,34): warning 1772: argument of type "float" is implicitly converted to parameter (1 of CLEAR_AREA_OF_OBJECTS) of type "Any"
+  
+C:\Users\user\Desktop\SPRX\SOURCES\Dialog\GTAV_Native_Invoker\Functions.h(1151,43): warning 1772: argument of type "float" is implicitly converted to parameter (2 of CLEAR_AREA_OF_OBJECTS) of type "Any"
+  
+C:\Users\user\Desktop\SPRX\SOURCES\Dialog\GTAV_Native_Invoker\Functions.h(1151,52): warning 1772: argument of type "float" is implicitly converted to parameter (3 of CLEAR_AREA_OF_OBJECTS) of type "Any"
+  
+C:\Users\user\Desktop\SPRX\SOURCES\Dialog\GTAV_Native_Invoker\Functions.h(1152,35): warning 1772: argument of type "float" is implicitly converted to parameter (1 of CLEAR_AREA_OF_VEHICLES) of type "Any"
+  
+C:\Users\user\Desktop\SPRX\SOURCES\Dialog\GTAV_Native_Invoker\Functions.h(1152,44): warning 1772: argument of type "float" is implicitly converted to parameter (2 of CLEAR_AREA_OF_VEHICLES) of type "Any"
+  
+C:\Users\user\Desktop\SPRX\SOURCES\Dialog\GTAV_Native_Invoker\Functions.h(1152,53): warning 1772: argument of type "float" is implicitly converted to parameter (3 of CLEAR_AREA_OF_VEHICLES) of type "Any"
+  
+C:\Users\user\Desktop\SPRX\SOURCES\Dialog\GTAV_Native_Invoker\Functions.h(1154,38): warning 1772: argument of type "float" is implicitly converted to parameter (1 of CLEAR_AREA_OF_PROJECTILES) of type "Any"
+  
+C:\Users\user\Desktop\SPRX\SOURCES\Dialog\GTAV_Native_Invoker\Functions.h(1154,47): warning 1772: argument of type "float" is implicitly converted to parameter (2 of CLEAR_AREA_OF_PROJECTILES) of type "Any"
+  
+C:\Users\user\Desktop\SPRX\SOURCES\Dialog\GTAV_Native_Invoker\Functions.h(1154,56): warning 1772: argument of type "float" is implicitly converted to parameter (3 of CLEAR_AREA_OF_PROJECTILES) of type "Any"
+  
+C:\Users\user\Desktop\SPRX\SOURCES\Dialog\GTAV_Native_Invoker\Functions.h(1232,31): warning 1772: argument of type "float" is implicitly converted to parameter (1 of CLEAR_AREA_OF_COPS) of type "Any"
+  
+C:\Users\user\Desktop\SPRX\SOURCES\Dialog\GTAV_Native_Invoker\Functions.h(1232,38): warning 1772: argument of type "float" is implicitly converted to parameter (2 of CLEAR_AREA_OF_COPS) of type "Any"
+  
+C:\Users\user\Desktop\SPRX\SOURCES\Dialog\GTAV_Native_Invoker\Functions.h(1232,45): warning 1772: argument of type "float" is implicitly converted to parameter (3 of CLEAR_AREA_OF_COPS) of type "Any"
+  
+C:\Users\user\Desktop\SPRX\SOURCES\Dialog\GTAV_Native_Invoker\Functions.h(1771,8): warning 178: variable "buf2" was declared but never referenced
+  
+C:\Users\user\Desktop\SPRX\SOURCES\Dialog\GTAV_Native_Invoker\Teleport.h(29,75): warning 1772: argument of type "float" is implicitly converted to parameter (2 of GET_OFFSET_FROM_ENTITY_IN_WORLD_COORDS) of type "int"
+  
+C:\Users\user\Desktop\SPRX\SOURCES\Dialog\GTAV_Native_Invoker\Teleport.h(29,81): warning 1772: argument of type "float" is implicitly converted to parameter (3 of GET_OFFSET_FROM_ENTITY_IN_WORLD_COORDS) of type "int"
+  
+C:\Users\user\Desktop\SPRX\SOURCES\Dialog\GTAV_Native_Invoker\Teleport.h(29,87): warning 1772: argument of type "float" is implicitly converted to parameter (4 of GET_OFFSET_FROM_ENTITY_IN_WORLD_COORDS) of type "int"
+  
+C:\Users\user\Desktop\SPRX\SOURCES\Dialog\GTAV_Native_Invoker\Teleport.h(41,76): warning 1772: argument of type "float" is implicitly converted to parameter (2 of GET_OFFSET_FROM_ENTITY_IN_WORLD_COORDS) of type "int"
+  
+C:\Users\user\Desktop\SPRX\SOURCES\Dialog\GTAV_Native_Invoker\Teleport.h(41,82): warning 1772: argument of type "float" is implicitly converted to parameter (3 of GET_OFFSET_FROM_ENTITY_IN_WORLD_COORDS) of type "int"
+  
+C:\Users\user\Desktop\SPRX\SOURCES\Dialog\GTAV_Native_Invoker\Teleport.h(41,88): warning 1772: argument of type "float" is implicitly converted to parameter (4 of GET_OFFSET_FROM_ENTITY_IN_WORLD_COORDS) of type "int"
+  
+C:\Users\user\Desktop\SPRX\SOURCES\Dialog\GTAV_Native_Invoker\Dialog.h(69,6): warning 178: variable "ret" was declared but never referenced
+  
+C:\Users\user\Desktop\SPRX\SOURCES\Dialog\GTAV_Native_Invoker\Dialog.h(188,6): warning 178: variable "ret" was declared but never referenced
+  
+C:\Users\user\Desktop\SPRX\SOURCES\Dialog\GTAV_Native_Invoker\Dialog.h(230,6): warning 552: variable "ret" was set but never used
+  
+C:\Users\user\Desktop\SPRX\SOURCES\Dialog\GTAV_Native_Invoker\prx.cpp(86,15): warning 1067: conversion from integer to smaller pointer
+  
+C:\Users\user\Desktop\SPRX\SOURCES\Dialog\GTAV_Native_Invoker\prx.cpp(142): warning 942: missing return statement at end of non-void function "NativeAddress"
+  
+C:\Users\user\Desktop\SPRX\SOURCES\Dialog\GTAV_Native_Invoker\prx.cpp(241,8): warning 1070: returning pointer to local variable
+  
+C:\Users\user\Desktop\SPRX\SOURCES\Dialog\GTAV_Native_Invoker\prx.cpp(250,8): warning 1070: returning pointer to local variable
+  
+C:\Users\user\Desktop\SPRX\SOURCES\Dialog\GTAV_Native_Invoker\prx.cpp(254,86): warning 69: integer conversion resulted in truncation
+  
+C:\Users\user\Desktop\SPRX\SOURCES\Dialog\GTAV_Native_Invoker\prx.cpp(833,7): warning 178: variable "buf23" was declared but never referenced
+  
+C:\Users\user\Desktop\SPRX\SOURCES\Dialog\GTAV_Native_Invoker\prx.cpp(843,7): warning 178: variable "buf23" was declared but never referenced
+  
+C:\Users\user\Desktop\SPRX\SOURCES\Dialog\GTAV_Native_Invoker\prx.cpp(861,6): warning 178: variable "buf2" was declared but never referenced
+  
+C:\Users\user\Desktop\SPRX\SOURCES\Dialog\GTAV_Native_Invoker\prx.cpp(1062,9): warning 188: use of constant "=" where "==" may have been intended
+  
+C:\Users\user\Desktop\SPRX\SOURCES\Dialog\GTAV_Native_Invoker\prx.cpp(1068,13): warning 188: use of constant "=" where "==" may have been intended
+  
+C:\Users\user\Desktop\SPRX\SOURCES\Dialog\GTAV_Native_Invoker\prx.cpp(1082,9): warning 188: use of constant "=" where "==" may have been intended
+  
+C:\Users\user\Desktop\SPRX\SOURCES\Dialog\GTAV_Native_Invoker\prx.cpp(1090,13): warning 188: use of constant "=" where "==" may have been intended
+  
+C:\Users\user\Desktop\SPRX\SOURCES\Dialog\GTAV_Native_Invoker\prx.cpp(1424): warning 942: missing return statement at end of non-void function "SpawnHuds"
+  
+C:\Users\user\Desktop\SPRX\SOURCES\Dialog\GTAV_Native_Invoker\prx.cpp(1851,25): warning 193: unrecognized character escape sequence
+  
+C:\Users\user\Desktop\SPRX\SOURCES\Dialog\GTAV_Native_Invoker\prx.cpp(1852,25): warning 193: unrecognized character escape sequence
+  
+C:\Users\user\Desktop\SPRX\SOURCES\Dialog\GTAV_Native_Invoker\prx.cpp(1853,20): warning 193: unrecognized character escape sequence
+  
+C:\Users\user\Desktop\SPRX\SOURCES\Dialog\GTAV_Native_Invoker\prx.cpp(1882,2): warning 548: transfer of control bypasses initialization of:
+              variable "playerid2" (declared at line 1884)
+              variable "playerid4" (declared at line 1888)
+              variable "playerid3" (declared at line 1889)
+  
+C:\Users\user\Desktop\SPRX\SOURCES\Dialog\GTAV_Native_Invoker\prx.cpp(2002,19): warning 193: unrecognized character escape sequence
+  
+C:\Users\user\Desktop\SPRX\SOURCES\Dialog\GTAV_Native_Invoker\prx.cpp(1472,1): warning 548: transfer of control bypasses initialization of:
+              variable "My" (declared at line 1870)
+              variable "mycoords" (declared at line 1871)
+  
+  GTAV_Native_Invoker.vcxproj -> C:\Users\user\Desktop\SPRX\SOURCES\Dialog\GTAV_Native_Invoker\..\gta5HDz.sprx
+  Cannot find the expected PRX Stub Library file: cellPrx_Lexicon_stub.a
